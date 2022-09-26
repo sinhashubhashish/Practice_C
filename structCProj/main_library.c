@@ -1,7 +1,7 @@
 #include "books_catalog.h"
 #include "book_def.h"
 
-int main()
+
 {
     count = 0;
     BOOK book1 = newBook(1847, Shelf3, 8768.95);
